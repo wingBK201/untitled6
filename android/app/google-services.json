@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206242677753",
+    "project_id": "first-firebase-app-f26aa",
+    "storage_bucket": "first-firebase-app-f26aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206242677753:android:139eab58fb027e5ecbb328",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Y0pupMllNP8Y8BDqniaPAdDbb62C120"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206242677753:android:5cd52737a104d453cbb328",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Y0pupMllNP8Y8BDqniaPAdDbb62C120"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
